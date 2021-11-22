@@ -14,7 +14,6 @@ import java.util.ArrayList;
 public class Example {
 
 
-
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public Response example() {
